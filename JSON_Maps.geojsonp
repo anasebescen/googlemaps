@@ -12,19 +12,16 @@ eqfeed_callback({
       },
       "id": "restaurante1"
     },
-    {"type": "EstabelecimentosCollection",
-    "estabelecimentos": [{
-        "type": "Estabelecimento",
-        "properties": {
-          "name": "Restaurante 2",
-          "address": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000csx3",
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-170.0567, 52.4716, 127.2],
-        },
-        "id": "restaurante2"
+      "type": "Estabelecimento",
+      "properties": {
+        "name": "Restaurante 2",
+        "address": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000csx3",
       },
-    ] 
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-178.3725, -20.753, 544.19],
+      },
+      "id": "restaurante2"
+    },
   ]
 });
