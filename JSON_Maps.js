@@ -7,7 +7,7 @@ eqfeed_callback({
         "address": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000csx3",
       },
       "geometry": {
-        "type": "restaurante",
+        "type": "Point",
         "coordinates": [126.3832, 5.9775, 111.16],
       },
       "id": "restaurante1"
@@ -21,7 +21,7 @@ eqfeed_callback({
           "address": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000csx3",
         },
         "geometry": {
-          "type": "restaurante",
+          "type": "Point",
           "coordinates": [-170.0567, 52.4716, 127.2],
         },
         "id": "restaurante1"
