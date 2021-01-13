@@ -24,7 +24,7 @@ eqfeed_callback({
           "type": "Point",
           "coordinates": [-170.0567, 52.4716, 127.2],
         },
-        "id": "restaurante1"
+        "id": "restaurante2"
       },
   ]
 });
