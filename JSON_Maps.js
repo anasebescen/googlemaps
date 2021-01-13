@@ -1,5 +1,5 @@
 eqfeed_callback({
-  "type": "EstabelecimentosCollection",
+  "type": "EstabelecimentoCollection",
   "estabelecimentos": [{
       "type": "Estabelecimento",
       "properties": {
