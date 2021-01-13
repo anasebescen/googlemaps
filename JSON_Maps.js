@@ -12,8 +12,7 @@ eqfeed_callback({
       },
       "id": "restaurante1"
     },
-    {
-    "type": "EstabelecimentosCollection",
+    {"type": "EstabelecimentosCollection",
     "estabelecimentos": [{
         "type": "Estabelecimento",
         "properties": {
@@ -26,5 +25,6 @@ eqfeed_callback({
         },
         "id": "restaurante2"
       },
+    ] 
   ]
 });
